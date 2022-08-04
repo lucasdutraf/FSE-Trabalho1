@@ -1,5 +1,5 @@
-Aluno: Lucas Dutra Ferreira do Nascimento
-Matrícula: 17/0050939
+* **Aluno**: Lucas Dutra Ferreira do Nascimento
+* **Matrícula**: 17/0050939
 
 > Instale os requisitos do projeto na raíz antes da execução utilizando `pip3 install -r requirements.txt`
 
